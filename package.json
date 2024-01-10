@@ -1,0 +1,9 @@
+{
+    "dependencies": {
+        "amazon-product-api": "^0.4.4",
+        "xml2js": "^0.6.2"
+    },
+    "scripts": {
+        "convert": "node convert.js"
+    }
+}
